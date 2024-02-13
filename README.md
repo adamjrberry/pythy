@@ -19,5 +19,7 @@ Contact me: adam.berry[at]racklab[dot]io
 - Add encryption to SQLite file with PIN to decrypt
 - Compiled .exe files for Windows
 - Add Backup function to your choice of storage
+- Add a 'check for updates' function
+- Improve the aesthetics focusing on UI/UX
 
 Please contact me if you would like to add something to the roadmap. I'm also not a Github expert, this is a learning project for me - so it's not perfect, and comes with no guarantees. However, I would love to publish my work and help others in exchange for your own expertise, so please do let me know your ideas and contribute where you can. All the source will be available in this repo and I will work on it as/when I have time. 
