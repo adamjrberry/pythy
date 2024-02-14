@@ -6,7 +6,7 @@ import pyotp  # Importing the pyotp library for OTP generation
 import pyperclip  # Importing the pyperclip library for clipboard operations
 from functools import partial
 
-APP_VERSION = "1.0.0"  # Define your application version here
+APP_VERSION = "1.0.0"  
 
 class OTPApp(QMainWindow):
     def __init__(self):
